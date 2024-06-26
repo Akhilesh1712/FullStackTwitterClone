@@ -69,8 +69,10 @@ To start the frontend development server, run:
 The application will open in your default web browser.
 
 
-#Contributing
+**Contributing**
+
 Contributions are welcome! Please fork the repository and create a pull request to contribute to this project.
 
-#Contact
+**Contact**
+
 If you have any questions or feedback, feel free to reach out.
