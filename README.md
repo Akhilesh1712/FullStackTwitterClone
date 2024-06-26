@@ -31,9 +31,8 @@ The backend of the application is built using Node.js, Express, and MongoDB.
     ```sh
     npm install
     ```
-
-#### Environment Variables
-
+**MongoDB**
+    
 Create a `.env` file in the `backend` folder and add the following environment variables:
 
 env
@@ -41,6 +40,10 @@ PORT=8080
 MONGO_URL=mongodb+srv://your_mongodb_url
 TOKEN_SECRET=your_token_secret
 Replace your_mongodb_url with your actual MongoDB connection string and your_token_secret with a secret key for JWT.
+
+
+You have to go [MongoDB](https://www.mongodb.com/) wensite and have to create new database , then create url and paste it to MONGO_URL. 
+
 
 
 
