@@ -79,4 +79,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 **Contact**
 
-If you have any questions or feedback, feel free to reach out.
+If you have any questions or feedback, feel free to reach out trough [Linkdin](www.linkedin.com/in/akhilesh-kumar-7a6857248) or [Instagram](https://www.instagram.com/__akhilesh200__/)
