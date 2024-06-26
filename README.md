@@ -47,8 +47,8 @@ You have to go [MongoDB](https://www.mongodb.com/) wensite and have to create ne
 
 
 
-
-##Running the Server
+###Frontend
+Running the Server
 To start the server in development mode, run:\
 
                    npm run dev
